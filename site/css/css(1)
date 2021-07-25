@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Raleway Thin'), local('Raleway-Thin'), url(https://web.archive.org/web/20190528093656im_/http://fonts.gstatic.com/s/raleway/v13/1Ptsg8zYS_SKggPNwE44TYFv.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 09:36:56 May 28, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:21:34 Jul 24, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 132.668 (3)
+  captures_list: 2653.55
+  esindex: 0.025
+  exclusion.robots.policy: 0.35
+  PetaboxLoader3.datanode: 101.419 (4)
+  CDXLines.iter: 178.769 (3)
+  exclusion.robots: 0.374
+  load_resource: 256.927
+  PetaboxLoader3.resolve: 200.64
+  RedisCDXSource: 2.059
+*/
